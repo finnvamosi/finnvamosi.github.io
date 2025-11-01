@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "Under construction; please click the icon for now.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -459,7 +459,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/finn-vamosi", "_blank");
+          window.open("https://www.linkedin.com/in/finn-vamosi-700201196", "_blank");
         },
       },{
         id: 'social-scholar',
