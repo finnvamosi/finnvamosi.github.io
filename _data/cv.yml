@@ -6,14 +6,14 @@
     - name: Contact
       value: "(587) 436-2196 - finn.vamosi@ucalgary.ca"
     - name: Website
-      value: https://finnvamosi.github.io/
+      value: "https://finnvamosi.github.io/"
     - name: Languages
       value: "English (Native), French (Fluent)"
 
 - title: Education
   type: time_table
   contents:
-    - title: Bachelor of Science in Computer Science (GPA: 3.90)
+    - title: "Bachelor of Science in Computer Science (GPA: 3.90)"
       institution: University of Calgary, Canada
       year: 2021-2025
       description:
