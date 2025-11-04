@@ -14,62 +14,6 @@
     "profiles": []
   },
   "work": [],
-  "volunteer": [
-    {
-      "organization": "University of Calgary, Students' Union",
-      "location": "",
-      "position": "Food Bank Volunteer",
-      "url": "",
-      "startDate": "2022",
-      "endDate": "2024",
-      "summary": "",
-      "highlights": [
-        "Interviewed clients about their personal details and food preferences",
-        "Packed hampers according to the specific preferences of clients, and authenticated clients upon arrival",
-        "Mentored new volunteers to accelerate the onboarding process"
-      ]
-    },
-    {
-      "organization": "CalgaryToSpace (Student team working to launch a satellite into space)",
-      "location": "",
-      "position": "Communications Team Member",
-      "url": "",
-      "startDate": "2021",
-      "endDate": "2022",
-      "summary": "",
-      "highlights": [
-        "Developed the software framework for transmitting information back and forth between the satellite and our ground station",
-        "Constructed web dashboard for displaying satellite telemetry in near real-time",
-        "Applied for international clearance to operate within specific radio frequencies"
-      ]
-    },
-    {
-      "organization": "William Aberhart High School",
-      "location": "",
-      "position": "Robotics Team Lead",
-      "url": "",
-      "startDate": "2020",
-      "endDate": "2021",
-      "summary": "",
-      "highlights": [
-        "Redesigned the team's outdated website with a focus on ease of use and accessibility",
-        "Implemented control software to ensure robot executed automated tasks correctly, and responded accurately to human control",
-        "Delegated tasks according to skill sets and interests, and coordinated meetings to keep development on track"
-      ]
-    },
-    {
-      "organization": "Under The GUI Academy (Tutoring organization dedicated to Computer Science education)",
-      "location": "",
-      "position": "Volunteer Instructor",
-      "url": "",
-      "startDate": "2020",
-      "endDate": "2020",
-      "summary": "",
-      "highlights": [
-        "Taught young children basic programming concepts"
-      ]
-    }
-  ],
   "education": [
     {
       "institution": "University of Calgary",
@@ -173,107 +117,6 @@
       "summary": "4x Recipient"
     }
   ],
-  "certificates": [],
-  "publications": [
-    {
-      "name": "CRAWDAD: Causal Reasoning Augmentation with Dual-Agent Debate.",
-      "publisher": "In International Conference on Autonomous Agents and Multiagent Systems. (Under review)",
-      "releaseDate": "2025",
-      "url": "",
-      "summary": "Vamosi, F. G., & Forkert, N. D. (2025)."
-    },
-    {
-      "name": "Synthetic Ground Truth Counterfactuals for Comprehensive Evaluation of Causal Generative Models in Medical Imaging.",
-      "publisher": "In International Conference on Medical Image Computing and Computer-Assisted Intervention (pp. 541-550). Springer Nature Switzerland Cham.",
-      "releaseDate": "2025",
-      "url": "",
-      "summary": "Stanley, E. A. M., Vigneshwaran, V., Ohara, E. Y., Vamosi, F. G., Forkert, N. D., & Wilms, M. (2025)."
-    },
-    {
-      "name": "Dimensionality reduction in 3D causal deep learning for neuroimage generation: an evaluation study. Journal of Medical Imaging, 12(2), 024506-024506.",
-      "publisher": "Journal of Medical Imaging",
-      "releaseDate": "2025",
-      "url": "",
-      "summary": "Ohara, E. Y., Vigneshwaran, V., Souza, R., Vamosi, F. G., Wilms, M., & Forkert, N. D. (2025)."
-    },
-    {
-      "name": "MACAW 3D: a masked causal normalizing flow method for counterfactual 3D brain image generation.",
-      "publisher": "In Medical Imaging 2024: Imaging Informatics for Healthcare, Research, and Applications (Vol. 12931, pp. 110-115). SPIE.",
-      "releaseDate": "2024",
-      "url": "",
-      "summary": "Ohara, E. Y., Vamosi, F., Patil, H., Vigneshwaran, V., Wilms, M., & Forkert, N. D. (2024)."
-    }
-  ],
-  "skills": [
-    {
-      "name": "Languages",
-      "level": "",
-      "icon": "",
-      "keywords": [
-        "English (Native)",
-        "French (Fluent)"
-      ]
-    },
-    {
-      "name": "Programming",
-      "level": "",
-      "icon": "",
-      "keywords": [
-        "Python",
-        "PyTorch",
-        "Java",
-        "R",
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "Assembly",
-        "Haskell"
-      ]
-    },
-    {
-      "name": "Software",
-      "level": "",
-      "icon": "",
-      "keywords": [
-        "Unreal Engine 4",
-        "Unity",
-        "Blender",
-        "LaTeX",
-        "Mathematica",
-        "Unix",
-        "Cluster Computing",
-        "Excel",
-        "Tableau"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "English",
-      "fluency": "Native",
-      "icon": ""
-    },
-    {
-      "language": "French",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Research Interests",
-      "icon": "",
-      "keywords": [
-        "Al alignment",
-        "safety",
-        "interpretability",
-        "explainability",
-        "fairness",
-        "and robustness"
-      ]
-    }
-  ],
-  "references": [],
   "projects": [
     {
       "name": "Thesis Research, Dr. Tyler Bonnell",
@@ -344,5 +187,53 @@
       "endDate": "2022",
       "url": ""
     }
-  ]
+  ],
+  "certificates": [],
+  "skills": [
+    {
+      "name": "Programming",
+      "level": "",
+      "icon": "",
+      "keywords": [
+        "Python",
+        "PyTorch",
+        "Java",
+        "R",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Assembly",
+        "Haskell"
+      ]
+    },
+    {
+      "name": "Software",
+      "level": "",
+      "icon": "",
+      "keywords": [
+        "Unreal Engine 4",
+        "Unity",
+        "Blender",
+        "LaTeX",
+        "Mathematica",
+        "Unix",
+        "Cluster Computing",
+        "Excel",
+        "Tableau"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native",
+      "icon": ""
+    },
+    {
+      "language": "French",
+      "fluency": "Fluent",
+      "icon": ""
+    }
+  ],
+  "references": []
 }
