@@ -31,6 +31,8 @@ I am a final-year Computer Science undergrad at the <a href="https://www.ucalgar
 
 I have had the privilege to be mentored by many amazing professors throughout my research journey, which began in high school when I joined <a href="https://lindsayvirtualhuman.com/">Dr. Christian Jacob's</a> lab and developed VR teaching tools for cell biology. I later started working in <a href="https://ucalgary.ca/labs/miplab">Dr. Nils Forkert's</a> lab, where I evaluated the causal reasoning capabilities and biases of machine learning models and co-authored several conference papers. My Honours thesis research with <a href="https://tylerbonnell.weebly.com/">Dr. Tyler Bonnell</a> explored using dynamic, naturalistic environments to address catastrophic forgetting in reinforcement learning agents.
 
+I am eternally honoured to be a <a href="https://ucalgary.ca/news/introducing-ucalgarys-2021-schulich-leaders">2021 Schulich Leader</a>, and am grateful to have briefly studied at the University of Texas at Austin under a <a href="https://www.fulbright.ca/programs/killam-fellowships/canadians">Killam Fellowship</a>. I am also proud to be a three-time recipient of the <a href="https://www.nserc-crsng.gc.ca/students-etudiants/ug-pc/usra-brpc_eng.asp">NSERC USRA</a> and one-time recipient of an <a href="https://albertainnovates.ca/funding/summer-research-studentships/">Alberta Innovates Summer Research Studentship</a>.
+
 
 <!-- and I am particularly interested in how the implementation of causal mechanisms can help with this, and how multi-agent frameworks might serve as testbeds for their interactions with the world. -->
 

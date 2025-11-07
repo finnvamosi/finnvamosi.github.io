@@ -10,8 +10,7 @@
       "city": "Calgary",
       "countryCode": "CA",
       "region": ""
-    },
-    "profiles": []
+    }
   },
   "work": [],
   "education": [
@@ -47,13 +46,6 @@
       "summary": ""
     },
     {
-      "title": "NSERC Undergraduate Student Research Award ($7,500)",
-      "date": "2022, 2024, and 2025",
-      "awarder": "",
-      "url": "",
-      "summary": ""
-    },
-    {
       "title": "Killam Fellowship (USD$6,750)",
       "date": "2024",
       "awarder": "",
@@ -63,13 +55,6 @@
     {
       "title": "Jason Lang Scholarship ($1,000)",
       "date": "2023 and 2024",
-      "awarder": "",
-      "url": "",
-      "summary": ""
-    },
-    {
-      "title": "Alberta Innovates Summer Research Studentship ($7,500)",
-      "date": "2023",
       "awarder": "",
       "url": "",
       "summary": ""
@@ -110,7 +95,21 @@
       "summary": ""
     },
     {
-      "title": "Dean's List",
+      "title": "Alberta Innovates Summer Research Studentship ($7,500)",
+      "date": "2023",
+      "awarder": "",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "NSERC Undergraduate Student Research Award ($7,500)",
+      "date": "2022, 2024, and 2025",
+      "awarder": "",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Dean's List ($0)",
       "date": "2021-25",
       "awarder": "",
       "url": "",
@@ -122,12 +121,9 @@
       "name": "Thesis Research, Dr. Tyler Bonnell",
       "summary": "University of Calgary, Faculty of Science. Project title: One-Life Reinforcement Learning in Naturalistic Environments",
       "highlights": [
-        "Learned reinforcement learning theory from online courses and textbooks",
-        "Compiled thorough literature review of associative learning as it relates to RL",
-        "Implemented Gymnasium environment with environmental shaping and dynamism, making for a more naturalistic learning setup",
+        "Implemented Gymnasium environment with scaffolding and dynamism, bringing the learning setup closer to natural, real-world analogues",
         "Adapted a novel associative learning formulation for continual learning",
-        "Conducted several experiments of both standard and continual RL",
-        "Wrote full research report and presentation, earning an A in the thesis course"
+        "Wrote full research report and thorough literature review, earning an 'A' in the course"
       ],
       "startDate": "2024",
       "endDate": "2025",
@@ -137,12 +133,11 @@
       "name": "Research Assistant, Dr. Nils Forkert: CRAWDAD: Causal Reasoning Augmentation with Dual-Agent Debate",
       "summary": "University of Calgary, School of Medicine. Project title: CRAWDAD: Causal Reasoning Augmentation with Dual-Agent Debate",
       "highlights": [
-        "Compiled thorough literature review of causality understanding in LLMs and multi-agent debate effectiveness across domains",
-        "Set up DeepSeek-R1 and Qwen3 reasoning models using Ollama",
-        "Constructed framework for both models to debate the answer to causal inference questions from the CLadder dataset",
-        "Observed substantial increases in final answer accuracy after engaging in debate"
+        "Conducted an extensive literature review of causality understanding in LLMs and multi-agent debate effectiveness across domains",
+        "Integrated DeepSeek-R1 and Qwen3 LLMs through Ollama to enable structured debate of causal inference benchmark tasks",
+        "Increased the accuracy of LLM answers by up to 12% for the most challenging questions through the debate of counterfactual reasoning"
       ],
-      "startDate": "2023",
+      "startDate": "2022",
       "endDate": "2025",
       "url": ""
     },
@@ -150,14 +145,11 @@
       "name": "Research Assistant, Dr. Nils Forkert: Evaluating Causal Counterfactual Generation in Medical Imaging",
       "summary": "University of Calgary, School of Medicine. Project title: Evaluating Causal Counterfactual Generation in Medical Imaging",
       "highlights": [
-        "Developed an experimental pipeline to assess causal machine learning models, such as the recently proposed MACAW",
-        "Utilized the novel SimBA synthetic dataset generation tool to systematically and empirically evaluate MACAW's attempts at bias removal",
+        "Developed an experimental pipeline using a novel synthetic dataset generation tool to evaluate the bias removal of counterfactual vision models",
         "Employed PCA dimensionality reduction and trained the model in several components to reduce memory usage and accelerate model convergence",
-        "Conducted quantitative analysis through MSE comparisons between image sets",
-        "Trained a specialized CNN to assess counterfactual image quality and determine if MACAW had successfully removed the target bias",
-        "Explored visual debugging techniques for identifying failure modes in causal medical image generation models"
+        "Trained a specialized CNN to assess counterfactual image quality and validate bias removal efficacy"
       ],
-      "startDate": "2023",
+      "startDate": "2022",
       "endDate": "2025",
       "url": ""
     },
@@ -165,12 +157,10 @@
       "name": "Research Assistant, Dr. Nils Forkert: Deep Learning Age Prediction of Causally-Generated Brain Scans",
       "summary": "University of Calgary, School of Medicine. Project title: Deep Learning Age Prediction of Causally-Generated Brain Scans",
       "highlights": [
-        "Filtered datasets to remove subjects with conditions affecting brain physiology to normalize training data",
-        "Trained a machine learning model to accurately predict the ages of individuals based on their 2D or 3D brain MRI scans",
-        "Accelerated training by configuring code to run on a remote computing cluster",
-        "Presented the basics of Stable Diffusion to colleagues to introduce them to the new deep learning technique"
+        "Filtered datasets to exclude subjects with confounding neurological conditions, ensuring unbiased training",
+        "Trained and evaluated 2D and 3D CNNs for accurate age prediction from brain MRI data, validating causal generative model quality"
       ],
-      "startDate": "2023",
+      "startDate": "2022",
       "endDate": "2025",
       "url": ""
     },
@@ -178,10 +168,9 @@
       "name": "Research Assistant, Dr. Christian Jacob: Immersive Cell Biology Education in Virtual Reality",
       "summary": "University of Calgary, Faculty of Science. Project title: Immersive Cell Biology Education in Virtual Reality",
       "highlights": [
-        "Developed an immersive virtual reality (VR) experience in Unreal Engine 4 for teaching cell biology in a memorable and approachable way",
-        "Designed, edited, and animated unique 3D models in Blender for my project and those of other undergraduate students",
-        "Developed an engaging VR game in which the player assumes the role of a Cytotoxic T cell in the bloodstream",
-        "Implemented best practices of VR game development to reduce discomfort while playing and improve immersion"
+        "Developed two immersive virtual reality (VR) experiences in Unreal Engine 4 for teaching cell biology in a memorable and approachable way",
+        "Designed, edited, and animated unique 3D models in Blender",
+        "Implemented best practices of VR development to reduce discomfort while playing and improve immersion"
       ],
       "startDate": "2019",
       "endDate": "2022",
@@ -195,31 +184,23 @@
       "level": "",
       "icon": "",
       "keywords": [
-        "Python",
-        "PyTorch",
+        "Python (PyTorch, NumPy, Pandas, Ollama, Gymnasium)",
         "Java",
-        "R",
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "Assembly",
-        "Haskell"
+        "R"
       ]
     },
     {
-      "name": "Software",
+      "name": "Tools",
       "level": "",
       "icon": "",
       "keywords": [
         "Unreal Engine 4",
-        "Unity",
         "Blender",
         "LaTeX",
-        "Mathematica",
         "Unix",
-        "Cluster Computing",
-        "Excel",
-        "Tableau"
+        "Tableau",
+        "SLURM",
+        "Git"
       ]
     }
   ],
@@ -235,5 +216,112 @@
       "icon": ""
     }
   ],
-  "references": []
+  "references": [],
+  "volunteer": [
+    {
+      "organization": "Food Bank Volunteer, University of Calgary Students' Union",
+      "position": "",
+      "url": "",
+      "startDate": "2022",
+      "endDate": "2024",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "organization": "Satellite Communications Team Member, Calgary ToSpace",
+      "position": "",
+      "url": "",
+      "startDate": "2021",
+      "endDate": "2022",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "organization": "Robotics Team Lead, William Aberhart High School",
+      "position": "",
+      "url": "",
+      "startDate": "2020",
+      "endDate": "2021",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "organization": "Volunteer Instructor, Under The GUI Academy",
+      "position": "",
+      "url": "",
+      "startDate": "2020",
+      "endDate": "2020",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "interests": [
+    {
+      "name": "Research Interests",
+      "keywords": [
+        "AI alignment",
+        "safety",
+        "interpretability",
+        "explainability",
+        "fairness",
+        "and robustness"
+      ]
+    }
+  ],
+  "publications": [
+    {
+      "name": "CRAWDAD: Causal Reasoning Augmentation with Dual-Agent Debate",
+      "publisher": "AAMAS 2026 (Under review)",
+      "releaseDate": "2025",
+      "url": "",
+      "summary": "Vamosi, F. G., & Forkert, N. D."
+    },
+    {
+      "name": "Synthetic Ground Truth Counterfactuals for Comprehensive Evaluation of Causal Generative Models in Medical Imaging",
+      "publisher": "MICCAI 2025",
+      "releaseDate": "2025",
+      "url": "",
+      "summary": "Stanley, E. A. M., Vigneshwaran, V., Ohara, E. Y., Vamosi, F. G., Forkert, N. D., & Wilms, M."
+    },
+    {
+      "name": "Dimensionality reduction in 3D causal deep learning for neuroimage generation: an evaluation study",
+      "publisher": "SPIE 2025",
+      "releaseDate": "2025",
+      "url": "",
+      "summary": "Ohara, E. Y., Vigneshwaran, V., Souza, R., Vamosi, F. G., Wilms, M., & Forkert, N. D."
+    },
+    {
+      "name": "MACAW 3D: a masked causal normalizing flow method for counterfactual 3D brain image generation",
+      "publisher": "SPIE 2025",
+      "releaseDate": "2024",
+      "url": "",
+      "summary": "Ohara, E. Y., Vamosi, F., Patil, H., Vigneshwaran, V., Wilms, M., & Forkert, N. D."
+    }
+  ],
+  "memberships": [
+    {
+      "organization": "Artificial Intelligence Club",
+      "position": "",
+      "url": "",
+      "startDate": "2023",
+      "endDate": "present",
+      "summary": ""
+    },
+    {
+      "organization": "Data Science and Machine Learning Club",
+      "position": "",
+      "url": "",
+      "startDate": "2022",
+      "endDate": "present",
+      "summary": ""
+    },
+    {
+      "organization": "Computer Science Undergraduate Society",
+      "position": "",
+      "url": "",
+      "startDate": "2021",
+      "endDate": "present",
+      "summary": ""
+    }
+  ]
 }
