@@ -391,16 +391,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+            },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-i-m-happy-to-announce-that-my-first-author-paper-crawdad-causal-reasoning-augmentation-with-dual-agent-debate-has-been-accepted-to-aamas-2026-see-you-in-cyprus",
+          title: 'I’m happy to announce that my first-author paper, “CRAwDAD: Causal Reasoning Augmentation with...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
